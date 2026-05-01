@@ -4,8 +4,7 @@
 **Student:** Ayush Yadav | ary22@njit.edu  
 **Instructor:** Prof. Khalid Bakhshaliyev | NJIT Spring 2026
 
-
-**DateOFSubmission:** 1st May 2026
+**Date Of Submission:** 1st May 2026
 ### Project Summary
 Seven experiments comparing VideoMAE-Base (86M params) vs CNN+LSTM (2.5M params) on a 64-clip subset of Kinetics-mini.
 
