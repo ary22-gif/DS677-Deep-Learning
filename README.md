@@ -17,7 +17,7 @@ Seven experiments comparing VideoMAE-Base (86M params) vs CNN+LSTM (2.5M params)
 
 ### Files
 - `DL_REPORT_FINAL.pdf` — Full 19-page research report
-- `DS677_Final_Notebook_SUBMISSION.ipynb` — Complete notebook (7 experiments, all outputs)
+- `DS677_Project.ipynb` — Complete notebook (7 experiments, all outputs)
 - `DS677_Presentation.mp4` — Video presentation (~30 min)
 
 ### Experiments
